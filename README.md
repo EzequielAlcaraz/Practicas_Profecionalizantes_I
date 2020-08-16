@@ -1,2 +1,2 @@
-# Practicas_Profesionalizantes_I
+# Practicas Profesionalizantes I
 Trabajos y codigos de la materia
