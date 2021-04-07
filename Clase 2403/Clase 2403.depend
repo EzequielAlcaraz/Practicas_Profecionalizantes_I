@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1584205420 source:f:\c++\practicas_profesionalizantes_i\clase 2403\main.cpp
+	<iostream>
+
+1617817109 source:f:\c++\practicas_profesionalizantes_i\clase 2403\coche.cpp
+	"coche.h"
+
+1617769171 f:\c++\practicas_profesionalizantes_i\clase 2403\coche.h
+	"vehiculo.h"
+
+1617824007 f:\c++\practicas_profesionalizantes_i\clase 2403\vehiculo.h
+	<iostream>
+
+1617817782 source:f:\c++\practicas_profesionalizantes_i\clase 2403\moto.cpp
+	"moto.h"
+
+1617817109 f:\c++\practicas_profesionalizantes_i\clase 2403\moto.h
+	"vehiculo.h"
+
+1617769986 source:f:\c++\practicas_profesionalizantes_i\clase 2403\taller.cpp
+	"taller.h"
+
+1617823998 f:\c++\practicas_profesionalizantes_i\clase 2403\taller.h
+	"vehiculo.h"
+
